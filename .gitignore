@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Build artifacts
+build/
+dist/
+
+# Llama runtime (large binaries)
+runtime/
+
+# OS
+Thumbs.db
+.DS_Store
